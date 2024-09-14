@@ -9,15 +9,14 @@
 ### GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=onedark&bg_color=0d1017" width="450" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&theme=onedark&background=0d1017" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&bg_color=22333a&title_color=587b81&icon_color=3a595e&text_color=587b81" width="450" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&background=22333a&sideNums=587b81&sideLabels=3a595e&dates=587b81&stroke=3a595e" width="450" height="200"/>
 </p>
-
-
 
 ### Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&theme=onedark&bg_color=0d1017)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&bg_color=22333a&title_color=587b81&icon_color=3a595e&text_color=587b81)
+
 
 
 
