@@ -4,7 +4,16 @@
 - 📫 How to reach me: mustafasadeghi@mail.um.ac.ir
 - ⚡ Fun fact: ...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&theme=default&bg_color=00000000)
+### GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&theme=dark&bg_color=00000000" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&theme=dark&background=00000000" />
+</p>
+
+### Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&theme=dark&bg_color=00000000)
 
 ## Languages and Tools 
 <p align="left">
