@@ -2,7 +2,7 @@
 
 ### About me :
 
-- 🔭 I’m currently Ai master's student at Ferdowsi university of Mashhad.
+- 🎓I’m currently Ai master's student at Ferdowsi university of Mashhad.
 - 📫 How to reach me: mustafasadeghi@mail.um.ac.ir
 
 ### GitHub Stats:
