@@ -16,16 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&theme=tokyonight&hide=html&card_width=450" width="450" height="200"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
+<br><br>
 
 ## Languages and Tools: 
 <p align="left">
