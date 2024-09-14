@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=58&pause=1000&color=3d5455&background=0d1017&center=true&vCenter=true&width=1000&height=400&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+I'm+Mustafa+Sadeghi.;Welcome+to+my+github+page!%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=58&pause=1000&color=005d61&background=0d1017&center=true&vCenter=true&width=1000&height=400&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+I'm+Mustafa+Sadeghi.;Welcome+to+my+github+page!%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 ## About me :
