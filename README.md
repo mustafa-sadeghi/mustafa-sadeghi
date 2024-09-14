@@ -6,16 +6,15 @@
 
 ### GitHub Stats:
 
-### GitHub Stats:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=gruvbox&bg_color=00000000" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&theme=gruvbox&background=00000000" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=gruvbox&bg_color=00000000" width="450" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&theme=gruvbox&background=00000000" width="450" height="200"/>
 </p>
 
 ### Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&theme=gruvbox&bg_color=00000000)
+
 
 
 ## Languages and Tools 
