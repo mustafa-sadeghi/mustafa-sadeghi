@@ -6,14 +6,38 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi)
 
-- ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
-- ![Numpy](https://img.shields.io/badge/Numpy-1.21.0-blue?style=for-the-badge&logo=numpy)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)
-- ![Pandas](https://img.shields.io/badge/Pandas-1.3.1-blue?style=for-the-badge&logo=pandas)
-- ![Scipy](https://img.shields.io/badge/Scipy-1.7.0-blue?style=for-the-badge&logo=scipy)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-blue?style=for-the-badge&logo=tensorflow)
-- ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
-- ![SQL](https://img.shields.io/badge/SQL-2019-blue?style=for-the-badge&logo=sql)
-- ![Git](https://img.shields.io/badge/Git-2.34-orange?style=for-the-badge&logo=git)
-- ![GitHub](https://img.shields.io/badge/GitHub-100%25-lightgrey?style=for-the-badge&logo=github)
+
+<h3 align="left">Languages and Tools:</h3> 
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="Scipy" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+</p>
 
