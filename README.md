@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FBC048&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi!%2C+I'm+Mustafa+Sadeghi.;Welcome+to+my+github+page!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FBC048&background=0d1017&width=870&height=240&size=36&lines=Hello!+I'm+Mostafa+Sadeghi.;Welcome+to+my+GitHub+profile!+%F0%9F%8E%89)](https://git.io/typing-svg)
 
 ### About me :
 
