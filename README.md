@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FBC048&background=0d1017&width=870&height=240&size=36&lines=Hello!+I'm+Mustafa+Sadeghi.;Welcome+to+my+GitHub+page!+%F0%9F%8E%89" 
-       style="border: 5px solid white; border-radius: 10px;" />
+       style="border: 20px solid white; border-radius: 40px;" />
 </p>
 
 
