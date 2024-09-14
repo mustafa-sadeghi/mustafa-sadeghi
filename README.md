@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi)
 
 
-<h3 align="left">Languages and Tools:</h3> 
+## Languages and Tools 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -20,9 +20,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="Scipy" width="50" height="50"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
@@ -40,4 +37,5 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
+
 
