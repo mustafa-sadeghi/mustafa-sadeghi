@@ -47,9 +47,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/jupyter-vertical.svg" alt="Jupyter Notebook" width="50" height="50"/>
-  </a>
 </p>
 
 
