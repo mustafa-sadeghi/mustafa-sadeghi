@@ -4,3 +4,5 @@
 - 📫 How to reach me: mustafasadeghi@mail.um.ac.ir
 - ⚡ Fun fact: ...
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi)
+
