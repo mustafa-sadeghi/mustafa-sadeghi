@@ -8,13 +8,14 @@
 
 ## Languages and Tools:
 
-- ![Python](https://img.shields.io/badge/Python-3.9-blue)
-- ![Numpy](https://img.shields.io/badge/Numpy-1.21.0-blue)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue)
-- ![Pandas](https://img.shields.io/badge/Pandas-1.3.1-blue)
-- ![Scipy](https://img.shields.io/badge/Scipy-1.7.0-blue)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-blue)
-- ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-- ![SQL](https://img.shields.io/badge/SQL-2019-blue)
-- ![Git](https://img.shields.io/badge/Git-2.34-orange)
-- ![GitHub](https://img.shields.io/badge/GitHub-100%25-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Numpy](https://img.shields.io/badge/Numpy-1.21.0-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.1-blue)
+![Scipy](https://img.shields.io/badge/Scipy-1.7.0-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![SQL](https://img.shields.io/badge/SQL-2019-blue)
+![Git](https://img.shields.io/badge/Git-2.34-orange)
+![GitHub](https://img.shields.io/badge/GitHub-100%25-lightgrey)
+
