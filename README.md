@@ -168,7 +168,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects." 
+    src="https://readme-typing-svg.herokuapp.com?size=28&color=000000&background=FFFFFF&center=true&vCenter=true&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects."
     alt="Closing Typing SVG"
   />
 </p>
