@@ -52,7 +52,8 @@
     width="400"
     style="margin-bottom: 20px;"
   />
-
+</p>
+<p align="center">
   <!-- Most Used Languages (White Background, Black Text) -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000"
