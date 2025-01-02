@@ -45,31 +45,29 @@
 ## GitHub Stats
 
 <p align="center">
-  <!-- Box 1: General GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true" 
-       alt="GitHub Stats"
-       style="margin: 10px;"
-       width="340"
-   />
+  <!-- 1) General GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+    width="400"
+    style="margin-bottom: 20px;"
+  />
 
-  <!-- Box 2: Contributions / Streak -->
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi" 
-       alt="GitHub Streak Stats" 
-       style="margin: 10px;"
-       width="340"
-   />
+  <!-- 2) Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mustafa-sadeghi&theme=black-ice&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    alt="GitHub Streak Stats"
+    width="400"
+    style="margin-bottom: 20px;"
+  />
 
-  <!-- Box 3: Most Used Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact" 
-       alt="Top Languages"
-       style="margin: 10px;"
-       width="340"
-   />
+  <!-- 3) Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
+    alt="Most Used Languages"
+    width="400"
+  />
 </p>
-
 ---
 
 ## Trophies & Achievements
