@@ -1,202 +1,107 @@
 <!-- 
-  Advanced Grayscale Themed GitHub Profile README
+  Modern, Minimal, Grayscale-Themed GitHub Profile README
   by Mustafa Sadeghi
-  Modify as needed to suit your style.
+  Customize freely to match your own style.
 -->
 
-<!-- Typing SVG (Grayscale) -->
+<!-- Centered Typing SVG Heading -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=58&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=400&lines=Hi%2C+I'm+Mustafa+Sadeghi.;Welcome+to+my+GitHub+page!"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mustafa-sadeghi&label=Profile%20Views&color=gray&style=flat" 
-    alt="Profile Views"
-  />
-  <img 
-    src="https://img.shields.io/github/followers/mustafa-sadeghi?label=GitHub%20Followers&color=gray&style=flat" 
-    alt="GitHub Followers"
-  />
-  <img 
-    src="https://img.shields.io/badge/AI%20Enthusiast-Yes-black" 
-    alt="AI Enthusiast Badge"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Mustafa+Sadeghi;Welcome+to+my+AI+Playground!"
+    alt="Typing SVG"
   />
 </p>
 
----
+<!-- Simple Gray Horizontal Rule -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="80%" alt="divider" />
+</p>
 
 ## About Me
+- 🎓 Pursuing a **Master’s in AI** at [Ferdowsi University of Mashhad](https://www.um.ac.ir/).  
+- 💡 Always excited about **Machine Learning**, **Deep Learning**, and everything in between.  
+- 🌱 Constantly exploring new frameworks and concepts in the AI world.  
+- 🤝 Looking to collaborate on projects that push the boundaries of **AI and Data Science**.
 
-- 🎓 Currently pursuing a **Master's in AI** at [Ferdowsi University of Mashhad](https://www.um.ac.ir/).  
-- 💬 Ask me anything about **Artificial Intelligence** or **Data Science**.  
-- 📫 How to reach me: [mustafasadeghi@mail.um.ac.ir](mailto:mustafasadeghi@mail.um.ac.ir)  
-- 🌱 I’m always learning and exploring new **Machine Learning** and **Deep Learning** frameworks.  
+<br/>
 
----
+## Quick Facts
+- ☕ **Coffee Addict:** Fueling creativity with a good espresso.  
+- 🧠 **Research Enthusiast:** Love reading about cutting-edge AI developments.  
+- ⚡ **Fun Fact:** I'm always up for brainstorming new project ideas or hacks.
 
-## GitHub Stats
+<br/>
 
+## Tech Stack & Tools
 <p align="center">
-  <!-- GitHub Readme Stats (grayscale theme) -->
-  <img
-       src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&title_color=000000&icon_color=555555&text_color=000000&bg_color=ffffff"
-       width="460"
-       height="200"
-       alt="Mustafa's GitHub stats"
-  />
-  
-  <!-- GitHub Streak Stats (grayscale theme) -->
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&theme=graywhite&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&sideLabels=555555&dates=888888"
-       width="460"
-       height="200"
-       alt="Mustafa's GitHub streak stats"
-  />
-</p>
-
-<p align="center">
-  <!-- Top Languages (grayscale theme) -->
-  <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&hide=html&title_color=000000&text_color=000000&bg_color=ffffff&card_width=445"
-       width="460"
-       height="200"
-       alt="Mustafa's Top Languages"
-  />
-</p>
-
----
-
-## Trophies & Achievements
-
-<p align="center">
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=mustafa-sadeghi&column=4&margin-w=15&margin-h=15&theme=onedark"
-       alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## Skills & Tools
-
-<p align="center">
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="Python" 
-         width="50" 
-         height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  
-  <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" 
-         alt="Numpy" 
-         width="50" 
-         height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
-  
-  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" 
-         alt="Matplotlib" 
-         width="50" 
-         height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
-  
-  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
-         alt="Pandas" 
-         width="50" 
-         height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  
-  <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
-         alt="TensorFlow" 
-         width="50" 
-         height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-  
-  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-         alt="MySQL" 
-         width="50" 
-         height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="40"/>
   </a>
-  
-  <!-- MS SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-         alt="SQL Server" 
-         width="50" 
-         height="50"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
   </a>
-  
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-         alt="Git" 
-         width="50" 
-         height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  
-  <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" 
-         alt="GitHub" 
-         width="50" 
-         height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
----
+<br/>
 
 ## Featured Projects
+- **[Intelligent Image Classifier](https://github.com/mustafa-sadeghi/Intelligent-Image-Classifier)**  
+  A deep learning project that classifies images into various categories using state-of-the-art CNN models.
 
-<!-- Add links to your coolest repositories here -->
-- [Project 1: Your AI or ML Project Title](https://github.com/mustafa-sadeghi/Your-Repo-Name)  
-  *Short description (1-2 lines).*
-- [Project 2: Another Interesting Project](https://github.com/mustafa-sadeghi/Another-Repo)  
-  *Short description (1-2 lines).*
+- **[AI Chatbot](https://github.com/mustafa-sadeghi/AI-Chatbot)**  
+  An interactive chatbot built with NLP techniques for handling human-like conversations.
 
----
+<br/>
 
-## Let's Connect!
-
+## Get In Touch
 <p align="center">
   <a href="mailto:mustafasadeghi@mail.um.ac.ir" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
   </a>
-  <!-- If you have a LinkedIn, add it here -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn Badge"/>
-  </a>
-  <!-- If you have a personal website, add it here -->
+  <!-- Add more if desired, e.g., LinkedIn or personal site -->
   <a href="https://YOURWEBSITE.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ffffff" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
 
----
+<br/>
 
-> **“The only way to do great work is to love what you do.”**  
-> *– Steve Jobs*
-
+<!-- Subtle horizontal rule -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects." 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="80%" alt="divider" />
+</p>
+
+<!-- Closing quote with minimal styling -->
+<p align="center" style="font-style: italic;">
+  “In the middle of difficulty lies opportunity.”<br/>
+  — Albert Einstein
+</p>
+
+<!-- Final Typing SVG -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=000000&size=24&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile!"
     alt="Closing Typing SVG"
   />
 </p>
