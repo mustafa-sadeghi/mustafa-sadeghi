@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img 
@@ -31,7 +31,7 @@
   />
 </p>
 
----
+
 
 ## About Me
 
@@ -40,7 +40,7 @@
 - 📫 How to reach me: [mustafasadeghi@mail.um.ac.ir](mailto:mustafasadeghi@mail.um.ac.ir)  
 - 🌱 I’m always learning and exploring new **Machine Learning** and **Deep Learning** frameworks.  
 
----
+
 
 ## GitHub Stats
 
