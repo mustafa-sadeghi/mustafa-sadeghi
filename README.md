@@ -161,24 +161,7 @@
   *Short description (1-2 lines).*
 
 ---
-
-## Let's Connect!
-
-<p align="center">
-  <a href="mailto:mustafasadeghi@mail.um.ac.ir" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff" alt="Email Badge"/>
-  </a>
-  <!-- If you have a LinkedIn, add it here -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn Badge"/>
-  </a>
-  <!-- If you have a personal website, add it here -->
-  <a href="https://YOURWEBSITE.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ffffff" alt="Website Badge"/>
-  </a>
-</p>
-
----
+ 
 
 > **“The only way to do great work is to love what you do.”**  
 > *– Steve Jobs*
