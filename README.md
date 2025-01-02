@@ -45,18 +45,17 @@
 ## GitHub Stats
 
 <p align="center">
-
-  <!-- 2) Streak Stats -->
+  <!-- Streak Stats (White Background, Black Text) -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mustafa-sadeghi&theme=black-ice&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-sadeghi&background=FFFFFF&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&ring=000000&fire=000000&stroke=000000"
     alt="GitHub Streak Stats"
     width="400"
     style="margin-bottom: 20px;"
   />
 
-  <!-- 3) Most Used Languages -->
+  <!-- Most Used Languages (White Background, Black Text) -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-sadeghi&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000"
     alt="Most Used Languages"
     width="400"
   />
