@@ -166,9 +166,3 @@
 > **“The only way to do great work is to love what you do.”**  
 > *– Steve Jobs*
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=28&color=000000&background=FFFFFF&center=true&vCenter=true&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects."
-    alt="Closing Typing SVG"
-  />
-</p>
