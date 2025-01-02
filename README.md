@@ -152,11 +152,11 @@
 
 ---
 ## Featured Projects
-- [Project 1: Y](https://github.com/mustafa-sadeghi/https://github.com/mustafa-sadeghi/house-price-prediction-using-mahcine-learning)
+- [Project 1: house price prediction using mahcine learning ](https://github.com/mustafa-sadeghi/https://github.com/mustafa-sadeghi/house-price-prediction-using-mahcine-learning)
   This project predicts house prices in Bangalore using a machine learning model. The project utilizes a linear regression model to estimate prices based on various input features like the number of bedrooms, bathrooms, total square footage, and location.
 
 
-- [Project 2: ](https://github.com/mustafa-sadeghi/https://github.com/mustafa-sadeghi/Linkage-Clustering)  
+- [Project 2: Linkage Clustring ](https://github.com/mustafa-sadeghi/https://github.com/mustafa-sadeghi/Linkage-Clustering)  
   This repository contains a comprehensive guide on Linkage Clustering, a technique used in hierarchical clustering within unsupervised machine learning. It combines theoretical insights with practical Python implementations for easy learning.
 
 
