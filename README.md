@@ -45,13 +45,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <!-- 1) General GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mustafa-sadeghi&show_icons=true&count_private=true&include_all_commits=true&hide=stars&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats"
-    width="400"
-    style="margin-bottom: 20px;"
-  />
 
   <!-- 2) Streak Stats -->
   <img
