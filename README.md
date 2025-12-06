@@ -35,10 +35,10 @@
 
 ## About Me
 
-- 🎓 Currently pursuing a **Master's in AI** at [Ferdowsi University of Mashhad](https://www.um.ac.ir/).  
-- 💬 Ask me anything about **Artificial Intelligence** or **Data Science**.  
-- 📫 How to reach me: [mustafasadeghi@mail.um.ac.ir](mailto:mustafasadeghi@mail.um.ac.ir)  
-- 🌱 I’m always learning and exploring new **Machine Learning** and **Deep Learning** frameworks.  
+- M.Sc. in **Artificial Intelligence** from Ferdowsi University of Mashhad.  
+- Exploring ML/DL tools and building practical skills in **Computer Vision**.  
+- Open to discussions on AI topics.  
+- Contact: mustafasadeghi@mail.um.ac.ir
 
 
 
