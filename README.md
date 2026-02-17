@@ -39,7 +39,7 @@
 - Exploring ML/DL tools and building practical skills in **Computer Vision**.  
 - Open to discussions on AI topics.  
 - Contact: mustafasadeghi@mail.um.ac.ir
-
+- GenAi Course : https://mustafa-sadeghi.github.io/Generative-AI-Course/https:/
 
 
 ## GitHub Stats
