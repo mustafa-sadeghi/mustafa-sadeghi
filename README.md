@@ -40,7 +40,8 @@
 - Open to discussions on AI topics.  
 - Contact: mustafasadeghi@mail.um.ac.ir
 - GenAi Course : https://mustafa-sadeghi.github.io/Generative-AI-Course/
-
+-https://mustafa-sadeghi.github.io/GDS-X/
+-https://mustafa-sadeghi.github.io/IALR-C2/
 
 ## GitHub Stats
 
